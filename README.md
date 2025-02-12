@@ -1,4 +1,4 @@
-# roop-unleashed
+# roop-un
 
 [Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
 
