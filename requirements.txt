@@ -18,3 +18,4 @@ tqdm==4.66.4
 ftfy
 regex
 pyvirtualcam
+pydantic==2.10.6
