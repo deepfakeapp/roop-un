@@ -3,7 +3,7 @@
 [Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
 
 
-Un censored images and videos without training and an easy-to-use GUI.
+U-N Censored images and videos without training and an easy-to-use GUI.
 
 
 ![Screen](https://github.com/ravindergandhi/roop-un/assets/131583554/6ee6860d-efbe-4337-8c62-a67598863637)
