@@ -1,7 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
 # Core libraries
-numpy<3.0.0,>=2.0.0
+numpy<2.3,>=1.22
 fastapi==0.115.2
 pydantic==2.10.6
 opencv-python-headless==4.9.0.80
