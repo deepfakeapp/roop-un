@@ -1,7 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
 # Core libraries
-numpy<2.1.0,>=1.26.0
+numpy>=1.26.0,<2.0
 fastapi==0.115.2
 pydantic==2.10.6
 opencv-python-headless==4.9.0.80
@@ -29,6 +29,6 @@ ftfy
 regex
 pyvirtualcam
 
-# Gradio (Latest compatible ≥5.1)
+# Gradio and client
 gradio==5.25.0
 gradio-client==1.8.0
