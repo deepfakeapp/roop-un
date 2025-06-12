@@ -1,7 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
 numpy==1.26.4
-fastapi<0.113.0
+fastapi>=0.113.0,<0.116.0
 opencv-python-headless==4.9.0.80
 onnx==1.16.0
 insightface==0.7.3
