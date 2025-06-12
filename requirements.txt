@@ -19,5 +19,5 @@ ftfy                           # Utilities
 regex                          # Utilities
 pyvirtualcam                   # Utilities
 gradio==5.0.1                  # Gradio and client
-gradio-client==1.8.0           # Gradio and client
+# gradio-client==1.8.0           # Gradio and client
 pydantic==2.10.6               # Core libraries
