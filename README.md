@@ -1,4 +1,4 @@
-# roop-un
+# roop-un - This project has been discontinued
 
 [Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
 
