@@ -34,5 +34,5 @@ gradio==5.25.0
 gradio-client==1.8.0
 
 # spaCy and thinc (compatible with NumPy 1.26.4)
-spacy==3.8.2
+spacy==3.7.5
 thinc==8.2.5
