@@ -1,13 +1,13 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
 # Core libraries
-numpy==1.26.4
+numpy<3.0.0,>=2.0.0
 fastapi==0.115.2
 pydantic==2.10.6
 opencv-python-headless==4.9.0.80
 onnx==1.16.0
 psutil==5.9.6
-tqdm==4.66.4
+tqdm>=4.67
 
 # Deep learning
 torch==2.5.1+cu118; sys_platform != 'darwin'
