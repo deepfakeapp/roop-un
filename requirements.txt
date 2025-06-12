@@ -1,22 +1,23 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
-numpy==1.26.4
-fastapi<0.113.0
-opencv-python-headless==4.9.0.80
-onnx==1.16.0
-insightface==0.7.3
-albucore==0.0.16
-psutil==5.9.6
-torch==2.5.1+cu118; sys_platform != 'darwin'
-torch==2.5.1; sys_platform == 'darwin'
-torchvision==0.20.1+cu118; sys_platform != 'darwin'
-torchvision==0.20.1; sys_platform == 'darwin'
-onnxruntime==1.22.0; sys_platform == 'darwin' and platform_machine != 'arm64'
-onnxruntime-silicon==1.16.3; sys_platform == 'darwin' and platform_machine == 'arm64'
-onnxruntime-gpu==1.22.0; sys_platform != 'darwin'
-tqdm==4.66.4
-ftfy
-regex
-pyvirtualcam
-gradio==5.0.1
-pydantic==2.10.6
+numpy==1.26.4                     # Core libraries
+fastapi<0.113.0                   # Core libraries
+opencv-python-headless==4.9.0.80  # Core libraries
+onnx==1.16.0                      # Core libraries
+psutil==5.9.6                     # Core libraries
+tqdm==4.66.4                      # Core libraries
+insightface==0.7.3      # InsightFace & image processing
+albucore==0.0.16        # InsightFace & image processing
+torch==2.5.1+cu118; sys_platform != 'darwin'         # Deep learning
+torch==2.5.1; sys_platform == 'darwin'               # Deep learning
+torchvision==0.20.1+cu118; sys_platform != 'darwin'  # Deep learning
+torchvision==0.20.1; sys_platform == 'darwin'        # Deep learning
+onnxruntime==1.22.0; sys_platform == 'darwin' and platform_machine != 'arm64'           # ONNX runtimes
+onnxruntime-silicon==1.16.3; sys_platform == 'darwin' and platform_machine == 'arm64'   # ONNX runtimes
+onnxruntime-gpu==1.22.0; sys_platform != 'darwin'                                       # ONNX runtimes
+ftfy                           # Utilities
+regex                          # Utilities
+pyvirtualcam                   # Utilities
+gradio==5.0.1                  # Gradio and client
+gradio-client==1.8.0           # Gradio and client
+pydantic==2.10.6               # Core libraries
