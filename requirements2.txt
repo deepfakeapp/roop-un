@@ -20,4 +20,4 @@ regex
 pyvirtualcam
 gradio==5.31.0
 pydantic==2.11.5
-websockets==14.0.2
+websockets==13.1
