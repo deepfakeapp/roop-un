@@ -32,3 +32,6 @@ pyvirtualcam
 # Gradio and client
 gradio==5.25.0
 gradio-client==1.8.0
+
+# Thinc (compatible with NumPy 1.26.4)
+thinc==8.2.5
