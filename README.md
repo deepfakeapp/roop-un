@@ -23,7 +23,7 @@ Please refer to the [wiki](https://github.com/ravindergandhi/roop-un/wiki).
 - Linux: `python run.py`
 - Dockerfile - `docker build -t roop-unleashed .`
 
-<a target="_blank" href="https://colab.research.google.com/github/C0untFloyd/roop-unleashed/blob/main/roop-unleashed.ipynb">
+<a target="_blank" href="https://colab.research.google.com/drive/1S85afJVl7-L7F5FvSWwhYNPHgKWMccVo#scrollTo=lv1g3rT8nf2H">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
