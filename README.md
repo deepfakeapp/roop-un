@@ -6,7 +6,7 @@
 U-N Censored images and videos without training and an easy-to-use GUI.
 
 
-![Screen](https://raw.githubusercontent.com/zullum/roop-unleashed/master/docs/screenshot.png)
+![Screen](https://github.com/C0untFloyd/roop-unleashed/assets/131583554/6ee6860d-efbe-4337-8c62-a67598863637)
 
 ### Features
 
