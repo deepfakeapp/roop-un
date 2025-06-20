@@ -1,6 +1,6 @@
 # roop-un - This project has been discontinued
 
-[Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
+[Disclaimer](#Disclaimer) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
 
 
 images and videos without training and an easy-to-use GUI.
