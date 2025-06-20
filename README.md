@@ -1,6 +1,6 @@
 # roop-un - This project has been discontinued
 
-[Disclaimer](#Disclaimer) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
+[Disclaimer](#Disclaimer) • [Usage](#usage) • [Google-Colab](#Google-Colab)
 
 
 images and videos without training and an easy-to-use GUI.
@@ -29,6 +29,9 @@ In the event of violation of the legal and ethical requirements of the user's co
 - Windows: run the `windows_run.bat` from the Installer.
 - Linux: `python run.py`
 - Dockerfile - `docker build -t roop-unleashed .`
+
+### Google-Colab
+
 
 <a target="_blank" href="https://colab.research.google.com/drive/1S85afJVl7-L7F5FvSWwhYNPHgKWMccVo#scrollTo=lv1g3rT8nf2H">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
