@@ -3,7 +3,7 @@
 [Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/ravindergandhi/roop-un/wiki)
 
 
-U-N Censored images and videos without training and an easy-to-use GUI.
+images and videos without training and an easy-to-use GUI.
 
 
 ![Screen](https://github.com/C0untFloyd/roop-unleashed/assets/131583554/6ee6860d-efbe-4337-8c62-a67598863637)
@@ -18,7 +18,7 @@ Please refer to the [wiki](https://github.com/ravindergandhi/roop-un/wiki).
 ### Disclaimer
 
 
-This project is for technical and academic use only. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person and clearly mention that it is a deepfake when posting content online. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios.
+This project is for technical and academic use only. Use This Code for Deep learning and Ai Coding i.e How Ai Works. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person and clearly mention that it is a deepfake when posting content online. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios. do not use this software for illigal purpose.
 
 In the event of violation of the legal and ethical requirements of the user's country or region, this code repository is exempt from liability
 
