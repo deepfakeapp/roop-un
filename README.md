@@ -45,15 +45,20 @@ In the event of violation of the legal and ethical requirements of the user's co
 
 ### Google-Colab
 
-
 <a target="_blank" href="https://colab.research.google.com/drive/1FasUu6dNrn2n9EO79gZ_euRyBBTnu0gL">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+### Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
 
-
-
-
+- Steps to Contribute
+- Fork the repository.
+- Create a new branch for your feature or fix.
+- Make your changes.
+- Commit your changes with a clear message.
+- Push to your forked repository.
+- Create a pull request.
 
 ### Changelog
 
