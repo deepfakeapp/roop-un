@@ -22,6 +22,7 @@ images and videos without training and an easy-to-use GUI.
 - Settings - storing configuration for next session
 - Theme Support
 
+
 ### Installation
 
 Please refer to the [wiki](https://github.com/ravindergandhi/roop-un/wiki).
