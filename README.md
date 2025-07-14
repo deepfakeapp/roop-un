@@ -25,7 +25,7 @@ images and videos without training and an easy-to-use GUI.
 
 ### Installation
 
-Please refer to the [wiki](https://github.com/ravindergandhi/roop-un/wiki).
+Please refer to the [wiki](https://github.com/deepfakeapp/roop-un/wiki).
 
 
 ### Disclaimer
@@ -46,7 +46,7 @@ In the event of violation of the legal and ethical requirements of the user's co
 ### Google-Colab
 
 
-<a target="_blank" href="https://colab.research.google.com/drive/1S85afJVl7-L7F5FvSWwhYNPHgKWMccVo#scrollTo=lv1g3rT8nf2H">
+<a target="_blank" href="https://colab.research.google.com/drive/1FasUu6dNrn2n9EO79gZ_euRyBBTnu0gL">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
